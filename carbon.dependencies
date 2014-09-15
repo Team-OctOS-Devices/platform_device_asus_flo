@@ -4,7 +4,9 @@
    "target_path": "kernel/google/msm"
  },
  {
-   "repository": "CarbonDev/proprietary_vendor_asus",
-   "target_path": "vendor/asus"
+   "remote": "gh",
+   "repository": "ThankYouMario/proprietary_vendor_asus_flo",
+   "target_path": "vendor/asus",
+   "revision": "kitkat"
  }
 ]
