@@ -5,8 +5,8 @@
  },
  {
    "remote": "gh",
-   "repository": "ThankYouMario/proprietary_vendor_asus_flo",
+   "repository": "TheThunderbirds/proprietary_vendor_asus",
    "target_path": "vendor/asus",
-   "revision": "kitkat"
+   "revision": "kk"
  }
 ]
