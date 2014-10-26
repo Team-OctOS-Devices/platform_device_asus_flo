@@ -1,0 +1,12 @@
+[
+ {
+   "repository": "android_kernel_google_msm",
+   "target_path": "kernel/google/msm"
+ },
+ {
+   "remote": "tm",
+   "repository": "proprietary_vendor_asus",
+   "target_path": "vendor/asus",
+   "revision": "kk"
+ }
+]
