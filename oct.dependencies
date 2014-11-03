@@ -1,9 +1,9 @@
 [
  {
-   "remote": "ok",
-   "repository": "platform_kernel_asus_flo",
+   "remote": "cr",
+   "repository": "android_kernel_google_msm",
    "target_path": "kernel/asus/flo",
-   "revision": "kk-4.4"
+   "revision": "kk"
  },
  {
    "remote": "tm",
