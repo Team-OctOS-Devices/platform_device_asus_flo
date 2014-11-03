@@ -3,7 +3,7 @@
    "remote": "ok",
    "repository": "platform_kernel_asus_flo",
    "target_path": "kernel/asus/flo",
-   "revision": "WIP"
+   "revision": "kk-4.4"
  },
  {
    "remote": "tm",
